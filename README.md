@@ -65,7 +65,7 @@ An end-to-end healthcare analytics project analyzing adult asthma prevalence acr
 - Data visualization
 - Healthcare-focused insights
 
-➡️ [View Healthcare Data Analysis Project](R-Projects/healthcare-data-analysis/)
+➡️ [View Healthcare Data Analysis Project](https://github.com/beatricerobinson/beatrice-robinson-data-portfolio/tree/main/R-Projects/healthcare-data-analysis)
 
 ---
 
