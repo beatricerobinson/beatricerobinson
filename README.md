@@ -1,121 +1,79 @@
-# Hi, I'm Beatrice Robinson 
+# 👋🏾 Hi, I'm Bea
 
-### Data Analyst | Healthcare Data | R | SQL | Power BI | Tableau
+# AI Project Builder | Data Analyst | Healthcare & Workforce Analytics
 
-I’m a data analyst with a background in public health, healthcare operations, data analytics, and market research. I enjoy transforming complex data into clear insights that support better decisions.
+> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
 
-I recently earned my **Master of Science in Data Analytics** and use this space to showcase practical projects demonstrating data cleaning, analysis, visualization, and communication.
+I'm a data and technology professional with a background in **public health, healthcare operations, data analytics, and market research**, now expanding that foundation into **AI project development and intelligent solutions**.
 
----
+I enjoy taking complex problems, breaking them down into data and logic, and building practical solutions that turn information into something useful.
 
-# About Me
+# What I Build
 
-- 🎓 **M.S. in Data Analytics**
-- 🎓 **B.S. in Public Health**
-- 📊 Data analysis, visualization, and reporting
-- 🏥 Healthcare data and operational analytics
-- 💻 R, SQL, Excel, Power BI, and Tableau
-- 📈 Exploratory data analysis and data visualization
-- 🔎 Market research and data-driven insights
-- 🧩 Interested in solving real-world problems with data
+*  AI-powered projects and intelligent solutions
+*  Data analytics and visualization projects
+*  Healthcare analytics and workforce insights
+*  Exploratory and statistical analysis
+*  Data-driven tools and simulations
+*  Business intelligence dashboards
+*  Reproducible analytics projects
 
----
+# 🛠️ Technical Toolkit
 
-# Skills & Tools
+**Languages & Analysis**
+R • SQL • Python • Data Analysis • Statistics
 
-### Programming & Data Analysis
-- R
-- SQL
-- Excel
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
+**Business Intelligence**
+Power BI • Tableau • Excel
 
-### Data Visualization & Business Intelligence
-- Power BI
-- Tableau
-- ggplot2
-- Data Storytelling
-- Dashboard Development
+**Data & Analytics**
+Data Cleaning • Data Visualization • Exploratory Data Analysis • Market Research • Healthcare Analytics
 
-### Healthcare Analytics
-- Healthcare Data Analysis
-- Public Health Data
-- Healthcare Operations
-- Trend Analysis
-- Demographic Analysis
-- Market Research
+**AI & Emerging Technology**
+AI-Assisted Development • AI Project Building • Intelligent Systems • Automation
 
----
+# 🚀 Featured Projects
 
-# Featured Projects
+# 🏥 Healthcare Data Analysis with R
 
-# Healthcare Data Analysis with R
+Exploring public health data using R, including data cleaning, filtering, statistical summaries, and visualization.
 
-An end-to-end healthcare analytics project analyzing adult asthma prevalence across U.S. states and demographic groups.
+**Tools:** R • RStudio • dplyr • ggplot2
 
-**Skills demonstrated:**
-- R programming
-- Data cleaning
-- Data transformation
-- Exploratory data analysis
-- Aggregation
-- Trend analysis
-- Data visualization
-- Healthcare-focused insights
+# ⚖️ Recruitment Disparity Simulator
 
-➡️ [View Healthcare Data Analysis Project](https://github.com/beatricerobinson/beatrice-robinson-data-portfolio/tree/main/R-Projects/healthcare-data-analysis)
+A simulation project exploring how multiple factors can compound throughout the recruitment process and influence potential outcomes.
+
+**Focus:** Data Modeling • Simulation • Workforce Analytics • Social Impact
+
+# 🎯 What I'm Building Toward
+
+I'm expanding from traditional data analytics into **AI, intelligent systems, and applied AI project development**—combining analytical thinking with technology to build solutions to real-world problems.
+
+# 📚 Currently Growing
+
+* AI project development
+* Python
+* SQL
+* Machine learning concepts
+* Data engineering
+* Automation
+* Applied AI
+
+# 💡 My Philosophy
+
+> **Don't just analyze the problem. Build something that helps solve it.**
 
 ---
 
-# Portfolio
+# 📫 Let's Connect
 
-My portfolio will continue to grow as I develop projects demonstrating:
+I'm interested in opportunities involving:
 
-- **R Programming**
-- **SQL**
-- **Power BI**
-- **Tableau**
-- **Healthcare Analytics**
-- **Business Intelligence**
-- **Data Visualization**
-- **Statistical Analysis**
-- **Data Storytelling**
+**AI • Data Analytics • Healthcare Technology • Business Intelligence • Automation • Research • Data-Driven Innovation**
 
 ---
 
-# What I'm Building
+*Building. Learning. Analyzing. Creating.*
 
-I'm focused on developing practical analytics projects that demonstrate how data can be used to:
-
-- Identify trends and patterns
-- Understand populations and outcomes
-- Improve operational decision-making
-- Communicate complex information clearly
-- Support data-driven business and healthcare decisions
-
----
-
-# Currently Developing
-
-- Advanced R programming projects
-- SQL portfolio projects
-- Healthcare analytics projects
-- Power BI dashboards
-- Data visualization and storytelling
-- Reproducible analytical workflows
-
----
-
-# Let's Connect
-
-I'm always interested in connecting with professionals working in:
-
-**Data Analytics • Healthcare Analytics • Business Intelligence • Public Health • Data Science**
-
----
-
-Thanks for visiting my portfolio!
-
-Feel free to explore my repositories and follow my journey as I continue building practical, data-driven projects.
+**One algorithm at a time.**
