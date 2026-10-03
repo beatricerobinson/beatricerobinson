@@ -1,11 +1,10 @@
-
 # Beatrice Robinson
 
 **Data & AI | Healthcare and Workforce Analytics**
 
 Thoughtful analysis. Useful technology.
 
-I work at the intersection of public health, healthcare operations, data analytics, and market research. I turn complex questions into clear analysis and practical tools, and I’m growing my work in applied AI and intelligent systems.
+My background covers public health, healthcare operations, data analytics, and market research. I turn complex questions into clear analysis and practical tools, and I’m expanding my work in applied AI and intelligent systems.
 
 ## Selected work
 
@@ -30,8 +29,8 @@ A simulation exploring how decisions across sequential recruitment stages can sh
 
 ## Toolkit
 
-**Languages and analysis:** R, SQL, Python, statistics  
-**Business intelligence:** Power BI, Tableau, Excel  
+**Languages and analysis:** R, SQL, Python, statistics  
+**Business intelligence:** Power BI, Tableau, Excel  
 **Methods:** data cleaning, exploratory analysis, visualization, market research
 
 ## Currently developing
