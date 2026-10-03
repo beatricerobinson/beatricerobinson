@@ -1,79 +1,45 @@
-# 👋🏾 Hi, I'm Bea
 
-# AI Project Builder | Data Analyst | Healthcare & Workforce Analytics
+# Beatrice Robinson
 
-> **Decoding the Matrix. Building Intelligence One Algorithm at a Time.**
+**Data & AI | Healthcare and Workforce Analytics**
 
-I'm a data and technology professional with a background in **public health, healthcare operations, data analytics, and market research**, now expanding that foundation into **AI project development and intelligent solutions**.
+Thoughtful analysis. Useful technology.
 
-I enjoy taking complex problems, breaking them down into data and logic, and building practical solutions that turn information into something useful.
+I work at the intersection of public health, healthcare operations, data analytics, and market research. I turn complex questions into clear analysis and practical tools, and I’m growing my work in applied AI and intelligent systems.
 
-# What I Build
+## Selected work
 
-*  AI-powered projects and intelligent solutions
-*  Data analytics and visualization projects
-*  Healthcare analytics and workforce insights
-*  Exploratory and statistical analysis
-*  Data-driven tools and simulations
-*  Business intelligence dashboards
-*  Reproducible analytics projects
+### Healthcare Data Analysis with R
+An exploration of public health data, including data cleaning, filtering, statistical summaries, and visualization.
 
-# 🛠️ Technical Toolkit
+**Tools:** R, RStudio, dplyr, ggplot2
 
-**Languages & Analysis**
-R • SQL • Python • Data Analysis • Statistics
+### Recruitment Disparity Simulator
+A simulation exploring how decisions across sequential recruitment stages can shape candidate progression and outcomes.
 
-**Business Intelligence**
-Power BI • Tableau • Excel
+**Focus:** data modeling, simulation, workforce analytics, social impact
 
-**Data & Analytics**
-Data Cleaning • Data Visualization • Exploratory Data Analysis • Market Research • Healthcare Analytics
+[View more projects](https://github.com/beatricerobinson?tab=repositories)
 
-**AI & Emerging Technology**
-AI-Assisted Development • AI Project Building • Intelligent Systems • Automation
+## Focus areas
 
-# 🚀 Featured Projects
+- Healthcare and workforce analytics
+- Data analysis, visualization, and business intelligence
+- Reproducible research and statistical analysis
+- Applied AI, automation, and intelligent tools
 
-# 🏥 Healthcare Data Analysis with R
+## Toolkit
 
-Exploring public health data using R, including data cleaning, filtering, statistical summaries, and visualization.
+**Languages and analysis:** R, SQL, Python, statistics  
+**Business intelligence:** Power BI, Tableau, Excel  
+**Methods:** data cleaning, exploratory analysis, visualization, market research
 
-**Tools:** R • RStudio • dplyr • ggplot2
+## Currently developing
 
-# ⚖️ Recruitment Disparity Simulator
+I’m expanding from analytics into applied AI, machine learning concepts, data engineering, and automation—bringing an analytical perspective to tools that solve real problems.
 
-A simulation project exploring how multiple factors can compound throughout the recruitment process and influence potential outcomes.
+## Connect
 
-**Focus:** Data Modeling • Simulation • Workforce Analytics • Social Impact
+I’m interested in work across data analytics, healthcare technology, business intelligence, research, and applied AI.
 
-# 🎯 What I'm Building Toward
-
-I'm expanding from traditional data analytics into **AI, intelligent systems, and applied AI project development**—combining analytical thinking with technology to build solutions to real-world problems.
-
-# 📚 Currently Growing
-
-* AI project development
-* Python
-* SQL
-* Machine learning concepts
-* Data engineering
-* Automation
-* Applied AI
-
-# 💡 My Philosophy
-
-> **Don't just analyze the problem. Build something that helps solve it.**
-
----
-
-# 📫 Let's Connect
-
-I'm interested in opportunities involving:
-
-**AI • Data Analytics • Healthcare Technology • Business Intelligence • Automation • Research • Data-Driven Innovation**
-
----
-
-*Building. Learning. Analyzing. Creating.*
-
-**One algorithm at a time.**
+[LinkedIn](https://www.linkedin.com/in/bearobin)
